@@ -1,0 +1,9 @@
+
+{
+  "name": "TERBO - Premium Streaming",
+  "description": "A high-end movie streaming application with a red and black aesthetic, featuring an admin dashboard for content management and a custom video player.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
